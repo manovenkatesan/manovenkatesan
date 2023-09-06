@@ -19,7 +19,7 @@ Here are some of the technologies and tools I frequently work with:
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: https://www.linkedin.com/in/manovenkatesan/
 
 ## 🏆 My Projects
 
