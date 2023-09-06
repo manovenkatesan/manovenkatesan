@@ -6,16 +6,16 @@ I'm Mano Venkatesan, passionate about cloud-native integration solutions in mult
 
 - 🌱 I'm currently working on Cloud Native architecture POC on various tech stacks and top 3 cloud providers.
 - 👯 I'm open to collaborations and contributions on exciting projects.
-- 💬 Ask me about [Your Expertise or Interests].
-- 📫 You can reach me via [Your Contact Information].
+- 💬 Ask me about Cloud Native Integrations.
+- 📫 You can reach me via Linkedin.
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I frequently work with:
 
-- 💻 [Tech Stack 1]
-- 🛠️ [Tech Stack 2]
-- 📚 [Tech Stack 3]
+- 💻 DotNet Stack
+- 🛠️ Java Stack
+- 📚 Angular Stack
 
 ## 🌐 Connect with Me
 
