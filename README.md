@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**manovenkatesan/manovenkatesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mano Venkatesan, passionate about cloud-native integration solutions in multi and hybrid cloud environments based in Redmond WA. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 📌 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently working on Cloud Native architecture POC on various tech stacks and top 3 cloud providers.
+- 👯 I'm open to collaborations and contributions on exciting projects.
+- 💬 Ask me about [Your Expertise or Interests].
+- 📫 You can reach me via [Your Contact Information].
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I frequently work with:
+
+- 💻 [Tech Stack 1]
+- 🛠️ [Tech Stack 2]
+- 📚 [Tech Stack 3]
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: [Your LinkedIn Profile]
+
+## 🏆 My Projects
+
+Here are some of the projects I'm proud of:
+
+1. Cloud Native AWS implementation on Java Stack (Link to Project 1) - Short project description.
+2. Cloud Native Azure implementation on DotNet Stack (Link to Project 2) - Short project description.
+3. Cloud Native GCP implementation on Angular Stack(Link to Project 3) - Short project description.
+
+Feel free to explore my repositories for more!
+
+
+Thanks for visiting my GitHub profile! Feel free to connect and explore my work. 😊
