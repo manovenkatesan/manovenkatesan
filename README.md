@@ -19,7 +19,7 @@ I'm Mano Venkatesan, passionate about cloud-native integration solutions in mult
 
 ## 🏆 My Projects
 
-Here are some of the projects I'm proud of:
+Here are some of the Cloud Native POCs i am working on:
 
 1. Cloud Native AWS implementation on Java Stack (Link to Project 1) - Short project description.
 2. Cloud Native Azure implementation on DotNet Stack (Link to Project 2) - Short project description.
